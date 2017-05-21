@@ -1,0 +1,30 @@
+.red {
+     width: 1150px;
+    border: 50px solid red;
+    margin-right: 20px;
+    margin-left: 20px;
+}
+.yellow {
+  background-color: yellow;
+  height: 500px;
+  width: 1250px;
+   margin-right: 20px;
+    margin-left: 20px;
+}
+
+.blue {
+  background-color: blue;
+  height: 420px;
+  width: 1000px;
+  margin-left: 150px;
+  margin-top: -500px;
+}
+
+.green {
+    background-color: green;
+    height: 90px;
+    width: 1000px;
+  margin-left: 150px;
+  margin-top: -10px;
+      
+}
